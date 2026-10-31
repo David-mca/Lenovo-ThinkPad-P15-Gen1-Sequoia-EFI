@@ -1,0 +1,1 @@
+# Lenovo-ThinkPad-P15-Gen1-Sequoia-EFI
