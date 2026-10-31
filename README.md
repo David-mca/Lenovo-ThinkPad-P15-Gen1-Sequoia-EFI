@@ -5,7 +5,7 @@ Tested on **macOS Sequoia 15.8.2** with **OpenCore 1.0.8 (RELEASE build)** and t
 
 > **Generate your own SMBIOS before booting.** The serial, MLB, ROM and UUID in `config.plist` are intentionally blank. Fill in `PlatformInfo → Generic` with your own values (for example from `macserial` or [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)) and don't publish them.
 
-> Hackintoshing is not supported by Apple and goes against Apple's license terms for non‑Apple hardware. This EFI is provided **as is, with no warranty**. Back up your data and keep a copy of your working EFI before changing anything.
+> Hackintoshing is not supported by Apple and goes against Apple's license terms for non‑Apple hardware. This EFI is provided **as is, with no warranty**.
 
 ## Tested hardware
 
