@@ -1882,7 +1882,7 @@
 				Rg==
 				</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 -v debug=0x100 -wegnoegpu alcid=11 swd_panic=1</string>
+				<string>keepsyms=1 -v debug=0x100 -wegnoegpu alcid=71 swd_panic=1</string>
 				<key>csr-active-config</key>
 				<data>
 				AAAAAA==
